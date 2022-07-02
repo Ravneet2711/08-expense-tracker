@@ -4,7 +4,7 @@ _A react app used to add your expenses and after that you can select and view th
 
 ## Project URL
 
-[Add Your Expense](https://x-pens-tracker.netlify.app/)
+[Add Your Expense](https://x-pense-tracker.netlify.app/)
 
 ## Getting Started with Create React App
 
